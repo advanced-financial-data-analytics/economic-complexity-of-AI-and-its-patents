@@ -7,9 +7,9 @@ author: Barry Quinn
 bibliography: references.bib
 ---
 
-## An interdisciplinary definition of AI
+## Towards an unifying definition of AI
 
-Artificial Intelligence (AI) in an economic context can be defined as:
+Artificial Intelligence (AI), in an interdisciplinary context, can be defined as:
 
 >A novel form of adaptive capital[^adaptivecapital], characterised by goal-oriented computational systems capable of making intelligent decisions to achieve specified objectives [@Russell2020].
 
@@ -30,7 +30,7 @@ This definition provides a framework for analysing the economic implications of 
 
 In the realm of intellectual property, the quality of AI patents has emerged as a critical area of study with significant economic implications. AI patent quality refers to the technical merit, novelty, and potential economic value of patented AI innovations. Research indicates that the rapid growth in AI patent filings has led to concerns about patent quality, with potential ramifications for innovation dynamics and market structure in AI-intensive industries [@Fujii2018].
 
-From a legal perspective, AI patents face unique challenges due to the abstract nature of AI algorithms and the difficulty in clearly delineating the boundaries of AI inventions [@epo2017]. This complexity can lead to increased uncertainty in patent enforcement and potentially higher transaction costs in technology markets [@Lerner2015]. Moreover, the quality of AI patents has implications for market concentration and competition. High-quality patents may create significant entry barriers, potentially leading to market dominance by a few firms with strong AI patent portfolios [@Cockburn2019].
+From a legal perspective, AI patents face unique challenges due to the abstract nature of AI algorithms and the difficulty in clearly delineating the boundaries of AI inventions [@epo2018]. This complexity can lead to increased uncertainty in patent enforcement and potentially higher transaction costs in technology markets [@Lerner2015]. Moreover, the quality of AI patents has implications for market concentration and competition. High-quality patents may create significant entry barriers, potentially leading to market dominance by a few firms with strong AI patent portfolios [@Cockburn2019].
 
 Economic research suggests that the quality of AI patents can significantly influence the direction and pace of AI innovation. High-quality patents that effectively protect genuine inventions can stimulate further research and development, while low-quality patents might impede innovation by creating 'patent thickets' that are costly to navigate [@Hall2017]. Furthermore, the international dimension of AI patent quality has implications for global technology transfer and economic competitiveness. Differences in patent examination standards across jurisdictions can lead to variations in AI patent quality, potentially affecting international technology diffusion and trade in AI-intensive goods and services [@Fink2016].
 
@@ -40,6 +40,8 @@ These considerations surrounding AI patent quality add another layer of complexi
 
 ## Conclusion and future directions
 
-The economics of AI represents a complex and rapidly evolving field that necessitates an interdisciplinary approach. As we have seen, AI's role as a novel form of adaptive capital has far-reaching implications for labour markets, productivity, and wealth distribution. The intricate interplay between AI development and patent quality further complicates this landscape, introducing challenges and opportunities in innovation dynamics, market structures, and global competitiveness. The concept of 'value alignment' emerges as a critical factor, bridging technological capabilities with economic and societal objectives. As AI continues to advance, maintaining a balance between fostering innovation and ensuring equitable outcomes will require ongoing collaboration between economists, computer scientists, legal experts, and policymakers. Future research should focus on empirical studies of AI's economic impact, refinement of AI patent quality metrics, and development of policy frameworks that promote 'provably beneficial AI'. Additionally, exploring the implications of AI on international economic relations and investigating potential new economic models suited to an AI-driven world will be crucial. By embracing this multidisciplinary perspective, we can work towards harnessing the full potential of AI while mitigating its risks, ultimately shaping an economic future that aligns technological progress with human values and societal well-being.
+The economics of AI represents a complex and rapidly evolving field that necessitates an interdisciplinary approach. As we have seen, AI's role as a novel form of adaptive capital has far-reaching implications for labour markets, productivity, and wealth distribution. The intricate interplay between AI development and patent quality further complicates this landscape, introducing challenges and opportunities in innovation dynamics, market structures, and global competitiveness. The concept of 'value alignment' emerges as a critical factor, bridging technological capabilities with economic and societal objectives. As AI continues to advance, maintaining a balance between fostering innovation and ensuring equitable outcomes will require ongoing collaboration between economists, computer scientists, legal experts, and policymakers. 
+
+Future research should focus on empirical studies of AI's economic impact, refinement of AI patent quality metrics, and development of policy frameworks that promote 'provably beneficial AI'. Additionally, exploring the implications of AI on international economic relations and investigating potential new economic models suited to an AI-driven world will be crucial. By embracing this multidisciplinary perspective, we can work towards harnessing the full potential of AI while mitigating its risks, ultimately shaping an economic future that aligns technological progress with human values and societal well-being.
 
 ## References
