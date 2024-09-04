@@ -2,6 +2,7 @@
 title: "Beyond Algorithms"
 subtitle: "Complex economics of AI and its patents"
 format: html
+embed-resources: true
 author: Barry Quinn
 bibliography: references.bib
 ---
